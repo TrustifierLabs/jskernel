@@ -1,0 +1,3 @@
+[submodule "ass-js"]
+	path = ass-js
+	url = git@github.com:TrustifierLabs/ass-js.git
